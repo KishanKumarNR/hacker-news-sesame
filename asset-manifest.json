@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hacker-news-sesame/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hacker-news-sesame/static/js/main.350ec7e6.chunk.js",
+    "main.js.map": "/hacker-news-sesame/static/js/main.350ec7e6.chunk.js.map",
+    "runtime-main.js": "/hacker-news-sesame/static/js/runtime-main.e2c241dc.js",
+    "runtime-main.js.map": "/hacker-news-sesame/static/js/runtime-main.e2c241dc.js.map",
+    "static/js/2.b8dd7749.chunk.js": "/hacker-news-sesame/static/js/2.b8dd7749.chunk.js",
+    "static/js/2.b8dd7749.chunk.js.map": "/hacker-news-sesame/static/js/2.b8dd7749.chunk.js.map",
+    "index.html": "/hacker-news-sesame/index.html",
+    "precache-manifest.08003e5ef164d13ad832b841a088e964.js": "/hacker-news-sesame/precache-manifest.08003e5ef164d13ad832b841a088e964.js",
+    "service-worker.js": "/hacker-news-sesame/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hacker-news-sesame/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b8dd7749.chunk.js.LICENSE.txt": "/hacker-news-sesame/static/js/2.b8dd7749.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2c241dc.js",
+    "static/js/2.b8dd7749.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.350ec7e6.chunk.js"
+  ]
+}
